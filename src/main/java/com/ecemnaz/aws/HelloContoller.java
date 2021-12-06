@@ -9,6 +9,6 @@ public class HelloContoller {
 
     @GetMapping
     public String hello() {
-        return "Hello World";
+        return "Hello Ecemnaz";
     }
 }
